@@ -12,6 +12,14 @@ Wikipedia contains 2 DOIs w/ this prefix. Neither resolve or are registered with
 
 Huge thanks to all the organizers of #eLifeSprint in particular whomever prepared the excellent Wikipedia citations data dump which this repo looks at. https://elifesciences.org/events/c40798c3/elife-innovation-sprint-2018 
 
+Publisher.total.dois data were obtained from the Crossref API via the R package rcrossref (Chamberlain et al, 2017) 
+
 Here's a citation for the data dump I analyse here, it's too big for normal github and I don't like LFS:
 
 Halfaker, Aaron; Mansurov, Bahodir; redi, miriam; Taraborelli, Dario (2018): Citations with identifiers in Wikipedia. figshare. Fileset. https://doi.org/10.6084/m9.figshare.1299540.v10 
+
+Software used:
+
+Scott Chamberlain, Carl Boettiger, Ted Hart and Karthik Ram (2017). rcrossref: Client for
+  Various 'CrossRef' 'APIs'. R package version 0.8.0.
+  https://CRAN.R-project.org/package=rcrossref 
