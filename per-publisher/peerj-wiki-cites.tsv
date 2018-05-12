@@ -77,9 +77,9 @@ dewiki.tsv:1283857	Graumulle	165099539	2017-05-02T05:54:27Z	doi	10.7717/peerj.32
 dewiki.tsv:67971	Lebendes Fossil	157094729	2016-08-16T16:06:15Z	doi	10.7717/peerj.2320
 dewiki.tsv:1432068	Regalecus glesne	141422164	2015-04-23T13:49:22Z	doi	10.7717/peerj.715
 dewiki.tsv:128589	Diplodocus	140664129	2015-04-08T04:50:56Z	doi	10.7717/peerj.857
-dewiki.tsv:1752467	Hatzegopteryx	162156185	2017-01-30T20:37:40Z	doi	10.7717/peerj.2908"
 dewiki.tsv:1752467	Hatzegopteryx	162156185	2017-01-30T20:37:40Z	doi	10.7717/peerj.2908
-dewiki.tsv:1752467	Hatzegopteryx	162156185	2017-01-30T20:37:40Z	doi	10.7717/peerj.2908">{{cite
+dewiki.tsv:1752467	Hatzegopteryx	162156185	2017-01-30T20:37:40Z	doi	10.7717/peerj.2908
+dewiki.tsv:1752467	Hatzegopteryx	162156185	2017-01-30T20:37:40Z	doi	10.7717/peerj.2908
 dewiki.tsv:354686	Chirotherium	146357052	2015-09-24T12:17:24Z	doi	10.7717/peerj.1044
 dewiki.tsv:1044042	Kröten	171947849	2017-12-13T16:22:35Z	doi	10.7717/peerj.1553
 dewiki.tsv:266217	Apatosaurus	140651018	2015-04-07T16:21:44Z	doi	10.7717/peerj.857
@@ -514,7 +514,7 @@ enwiki.tsv:48616646	Maria Tereza Jorge Pádua	691736558	2015-11-21T21:35:17Z	doi
 enwiki.tsv:44984325	Replication crisis	790288888	2017-07-12T19:32:14Z	doi	10.7717/peerj.3544
 enwiki.tsv:40031076	Prolacertoides	817992215	2017-12-31T21:19:50Z	doi	10.7717/peerj.1778
 enwiki.tsv:40817806	Ebola virus	623849131	2014-09-02T11:57:40Z	doi	10.7717/peerj.556
-enwiki.tsv:40817806	Ebola virus	623903629	2014-09-02T19:44:31Z	doi	10.7717/peerj.556">{{Cite
+enwiki.tsv:40817806	Ebola virus	623903629	2014-09-02T19:44:31Z	doi	10.7717/peerj.556
 enwiki.tsv:46523690	Diplodocimorpha	659243801	2015-04-26T04:38:30Z	doi	10.7717/peerj.857
 enwiki.tsv:44478638	Atopos	635002482	2014-11-22T20:04:13Z	doi	10.7717/peerj.329
 enwiki.tsv:44480642	Plectostoma concinnum	635026044	2014-11-22T23:18:50Z	doi	10.7717/peerj.329
@@ -732,7 +732,7 @@ enwiki.tsv:52199972	2017 in arthropod paleontology	799084579	2017-09-05T15:05:32
 enwiki.tsv:52199972	2017 in arthropod paleontology	783002792	2017-05-30T14:35:18Z	doi	10.7717/peerj.3402
 enwiki.tsv:52199972	2017 in arthropod paleontology	774617719	2017-04-09T17:33:39Z	doi	10.7717/peerj.2985
 enwiki.tsv:52199972	2017 in arthropod paleontology	792110279	2017-07-24T14:31:20Z	doi	10.7717/peerj.3605
-enwiki.tsv:208458	Filoviridae	623905409	2014-09-02T19:58:26Z	doi	10.7717/peerj.556">{{Cite
+enwiki.tsv:208458	Filoviridae	623905409	2014-09-02T19:58:26Z	doi	10.7717/peerj.556
 enwiki.tsv:208458	Filoviridae	623905409	2014-09-02T19:58:26Z	doi	10.7717/peerj.556
 enwiki.tsv:196020	Crocodilia	579048047	2013-10-28T02:45:49Z	doi	10.7717/peerj.60
 enwiki.tsv:54338782	Muhtarophis barani	798379618	2017-09-01T15:40:15Z	doi	10.7717/peerj.2769
@@ -1015,7 +1015,7 @@ frwiki.tsv:701289	Espèce envahissante	116292057	2015-06-25T10:18:41Z	doi	10.771
 frwiki.tsv:61291	Pollution lumineuse	120079899	2015-11-01T20:47:55Z	doi	10.7717/peerj.1174
 frwiki.tsv:3998532	Rhynchodemidae	102538235	2014-04-01T11:05:52Z	doi	10.7717/peerj.297
 frwiki.tsv:3998532	Rhynchodemidae	116292104	2015-06-25T10:20:27Z	doi	10.7717/peerj.1037
-frwiki.tsv:36731	Code génétique	117563123	2015-08-08T21:55:15Z	doi	10.7717/peerj.50">
+frwiki.tsv:36731	Code génétique	117563123	2015-08-08T21:55:15Z	doi	10.7717/peerj.50
 frwiki.tsv:36731	Code génétique	117563123	2015-08-08T21:55:15Z	doi	10.7717/peerj.50
 frwiki.tsv:990550	Gondwanatitan	130484773	2016-10-09T07:21:04Z	doi	10.7717/peerj.2054
 frwiki.tsv:10104790	Lybia	134262723	2017-02-04T21:28:10Z	doi	10.7717/peerj.2954
@@ -1063,7 +1063,7 @@ frwiki.tsv:8093298	Losillasaurus	142942048	2017-11-26T10:44:01Z	doi	10.7717/peer
 frwiki.tsv:8110653	Galveosaurus	142939539	2017-11-26T09:11:10Z	doi	10.7717/peerj.3217
 frwiki.tsv:9598005	Pseudorhabdosynochus	128699152	2016-08-16T19:43:17Z	doi	10.7717/peerj.2233
 frwiki.tsv:9251828	ADN ribosomique	116452226	2015-07-01T08:35:10Z	doi	10.7717/peerj.718
-frwiki.tsv:9251828	ADN ribosomique	116452226	2015-07-01T08:35:10Z	doi	10.7717/peerj.718">
+frwiki.tsv:9251828	ADN ribosomique	116452226	2015-07-01T08:35:10Z	doi	10.7717/peerj.718
 frwiki.tsv:6868378	Eobrontosaurus	113805235	2015-04-13T10:42:56Z	doi	10.7717/peerj.857
 frwiki.tsv:9657725	Apatosaurinae	121620791	2015-12-26T08:02:45Z	doi	10.7717/peerj.857
 frwiki.tsv:9036583	Galeamopus	113951321	2015-04-17T18:20:30Z	doi	10.7717/peerj.857
@@ -1072,7 +1072,7 @@ frwiki.tsv:9727495	Eotrachodon	125609152	2016-04-25T17:27:06Z	doi	10.7717/peerj.
 frwiki.tsv:9365930	Masse corporelle du cheval	118017569	2015-08-24T09:07:40Z	doi	10.7717/peerj.299
 glwiki.tsv:89531	Dodo	4568400	2017-12-04T11:40:48Z	doi	10.7717/peerj.1432
 glwiki.tsv:288336	Virus Ebola	3549389	2015-05-15T09:08:44Z	doi	10.7717/peerj.556
-glwiki.tsv:288336	Virus Ebola	3549389	2015-05-15T09:08:44Z	doi	10.7717/peerj.556">Taylor
+glwiki.tsv:288336	Virus Ebola	3549389	2015-05-15T09:08:44Z	doi	10.7717/peerj.556
 glwiki.tsv:319446	Limúlidos	3651917	2015-09-09T11:00:42Z	doi	10.7717/peerj.641
 glwiki.tsv:347949	Inversión (bioloxía evolutiva)	4009861	2016-08-18T12:12:28Z	doi	10.7287/peerj.preprints.432v2
 glwiki.tsv:384816	Crocodilianos	4416037	2017-07-28T19:04:18Z	doi	10.7717/peerj.60
@@ -1350,7 +1350,7 @@ simplewiki.tsv:33236	Giraffe	5267465	2015-11-27T20:38:08Z	doi	10.7717/peerj.36
 srwiki.tsv:1481914	Фазани	12360373	2017-01-16T08:57:04Z	doi	10.7717/peerj.361
 srwiki.tsv:1482007	Јаребице (потпородица)	14298919	2017-06-22T22:35:06Z	doi	10.7717/peerj.361
 srwiki.tsv:1482578	Фазани (потпородица)	12320506	2017-01-02T23:40:07Z	doi	10.7717/peerj.361
-srwiki.tsv:1986526	Ебола вирус	18469031	2018-02-13T09:46:44Z	doi	10.7717/peerj.556">{{Cite
+srwiki.tsv:1986526	Ебола вирус	18469031	2018-02-13T09:46:44Z	doi	10.7717/peerj.556
 srwiki.tsv:1986526	Ебола вирус	18469031	2018-02-13T09:46:44Z	doi	10.7717/peerj.556
 srwiki.tsv:2089029	Archosauromorpha	15834287	2017-12-25T17:18:30Z	doi	10.7717/peerj.1778
 srwiki.tsv:2089260	Archosauriformes	15854523	2017-12-26T20:28:37Z	doi	10.7717/peerj.1778
